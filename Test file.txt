@@ -1,1 +1,32 @@
 First file for the stata project.
+
+{
+    "1": {
+        "Berlin": [
+            [
+                "Berlin University of the Arts",
+                "Universit\u00e4ten"
+            ],
+            [
+                "ESCP Business School",
+                "Universit\u00e4ten"
+            ],
+            [
+                "Free University of Berlin",
+                "Universit\u00e4ten"
+            ],
+            [
+                "Hertie School of Governance",
+                "Universit\u00e4ten"
+            ],
+            [
+                "Humboldt University of Berlin",
+                "Universit\u00e4ten"
+            ],
+            [
+                "Technical University of Berlin",
+                "Technische Universit\u00e4ten"
+            ]
+        ],
+        "North Rhine-Westphalia": [
+            [
